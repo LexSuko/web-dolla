@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/web-dolla/static/css/main.dd59afc0.css",
+    "main.js": "/web-dolla/static/js/main.540d64f4.js",
+    "static/media/video.mp4": "/web-dolla/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg-1.svg": "/web-dolla/static/media/svg-1.6af02011eb1f4d277c8beaf5671f1171.svg",
+    "static/media/svg-2.svg": "/web-dolla/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-3.svg": "/web-dolla/static/media/svg-3.203e1f736e92da03edabc5d85cf6f368.svg",
+    "index.html": "/web-dolla/index.html",
+    "main.dd59afc0.css.map": "/web-dolla/static/css/main.dd59afc0.css.map",
+    "main.540d64f4.js.map": "/web-dolla/static/js/main.540d64f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd59afc0.css",
+    "static/js/main.540d64f4.js"
+  ]
+}
