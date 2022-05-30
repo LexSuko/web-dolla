@@ -7,9 +7,9 @@ import SigninPage from './pages/signin';
 
 function App() {
   return (
-    <Router path="/web-dolla">
+    <Router>
       <Routes>
-        <Route path="/" element={<Home/>} exact/>
+        <Route path="/web-dolla" element={<Home/>} exact/>
         <Route path="/signin" element={<SigninPage/>} exact/>
         {/* <Route path="/" element={<Animate/>} exact/> */}
       </Routes>
