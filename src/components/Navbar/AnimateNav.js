@@ -24,7 +24,7 @@ const AnimateNav = ({ toggle }) => {
                 ))}
             </NavMenu>
             <NavBtn>
-                <Button to='/' primary='true'>Contact Us</Button>
+                <Button to='/web-dolla' primary='true'>Contact Us</Button>
             </NavBtn>
         </Nav>
     </>
